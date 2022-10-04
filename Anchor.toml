@@ -2,7 +2,7 @@
 seeds = false
 skip-lint = false
 [programs.localnet]
-solana_counter = "Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS"
+solana_counter = "Gz9MyXRttiXTVGZFqGLWh25x1N65mKVBRmnV4bBLi9g3"
 
 [registry]
 url = "https://api.apr.dev"
